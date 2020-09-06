@@ -1,4 +1,4 @@
-### Hello guys. Welcome to visit 👋
+### Hi guys. Welcome to visit 👋
 
 At present, I am a java engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> .You can follow my homepage：http://uzdz.me
 
