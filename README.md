@@ -3,5 +3,3 @@
 At present, I am a java engineer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> .You can follow my homepage：http://uzdz.me
 
 ![uzdz's github stats](https://github-readme-stats.vercel.app/api?username=uzdz&show_icons=true&hide_border=false&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
