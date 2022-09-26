@@ -10,4 +10,4 @@
 - 🔭 I’m currently working on Java and Golang Web development . 
 - 🌱 I’m currently learning Front-end Web technology. 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="down" height="250" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="down" height="255" />
