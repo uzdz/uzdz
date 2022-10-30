@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning Front-end Web technology. 
 - ⭐ More about me: [uzdz.me](http://uzdz.me)
 
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="down" height="255" />
 
 ## 🛠️Technology Stack
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="down" height="255" />
+
 
 </br>
 </br>
