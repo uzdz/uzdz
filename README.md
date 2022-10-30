@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on Java and Golang Web development . 
 - 🌱 I’m currently learning Front-end Web technology. 
 - ⭐ More about me: [uzdz.me](http://uzdz.me)
-
-
 ## 🛠️Technology Stack
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
@@ -22,5 +20,6 @@
 
 <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/Conter_Strike-反恐精英-black.svg?logo=Counter-Strike&logoColor=white&style=flat-square"> 
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="down" height="255" />
+
+
 
