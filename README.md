@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Hi guys. Welcome to visit. <img height="40" width="40" src="https://raw.githubusercontent.com/Hacker-C/Hacker-C/master/assets/wave.gif">
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Hi guys. Welcome to visit. <img height="40" width="40" src="./wave.gif">
 
 
 - 🔭 I’m currently working on Java and Golang Web development . 
