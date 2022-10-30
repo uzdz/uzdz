@@ -1,15 +1,12 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Hi guys. Welcome to visit. <img height="40" width="40" src="./wave.gif">
 
-
 - 🔭 I’m currently working on Java and Golang Web development . 
 - 🌱 I’m currently learning Front-end Web technology. 
 - ⭐ More about me: [uzdz.me](http://uzdz.me)
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+
 ## 🛠️ Technology Stack
-
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
-
-</br>
-</br>
 
 <img src="https://img.shields.io/badge/Java-%2335495e.svg?logo=CoffeeScript&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="Python" />  <img src="https://img.shields.io/badge/Golang-gray.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square" />
 
@@ -21,6 +18,8 @@
 
 <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/Conter_Strike-反恐精英-black.svg?logo=Counter-Strike&logoColor=white&style=flat-square"> 
 
+## Commits 🚀
 
+<img src="https://activity-graph.herokuapp.com/graph?username=uzdz&theme=react-dark">
 
 
