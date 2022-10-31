@@ -9,7 +9,7 @@
 ## 🛠️ Technology Stack
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="180" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="160" />
 
 <img src="https://img.shields.io/badge/Java-%2335495e.svg?logo=CoffeeScript&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="Python" />  <img src="https://img.shields.io/badge/Golang-gray.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square" />
 
@@ -17,6 +17,6 @@
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-IntelliJ-blue?style=flat-square&logo=IntelliJ-IDEA&logoColor=#000000)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=flat-square&logo=IntelliJ-IDEA&logoColor=#000000)](https://code.visualstudio.com/)
 
 <img src="https://img.shields.io/badge/Conter_Strike-反恐精英-black.svg?logo=Counter-Strike&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> 
