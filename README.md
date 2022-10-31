@@ -17,6 +17,6 @@
 
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=flat-square&logo=IntelliJ-IDEA&logoColor=#000000)](https://code.visualstudio.com/)
+[![Editor](https://img.shields.io/badge/Editor-IntelliJ-blue?style=flat-square&logo=IntelliJ-IDEA&logoColor=#000000)](https://code.visualstudio.com/)
 
 <img src="https://img.shields.io/badge/Conter_Strike-反恐精英-black.svg?logo=Counter-Strike&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> 
