@@ -18,7 +18,4 @@
 
 <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/Conter_Strike-反恐精英-black.svg?logo=Counter-Strike&logoColor=white&style=flat-square"> 
 
-## Commits 🚀
-
-<img src="https://activity-graph.herokuapp.com/graph?username=uzdz&theme=react-dark">
 
