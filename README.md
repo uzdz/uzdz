@@ -8,8 +8,7 @@
 
 ## 🛠️ Technology Stack
 
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="160" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="165" />
 
 <img src="https://img.shields.io/badge/Java-%2335495e.svg?logo=CoffeeScript&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/Golang-gray.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square" /> <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="Python" />
 
