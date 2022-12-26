@@ -14,10 +14,12 @@
 
 <img src="https://img.shields.io/badge/Kubernetes-gray.svg?logo=Kubernetes&logoColor=-%326CE5&style=flat-square" /> <img src="https://img.shields.io/badge/Spring_Boot-gray.svg?logo=Spring-Boot&logoColor=%2343853d&style=flat-square" /> <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=Vue.js&logoColor=%234fc08d&style=flat-square" /> <img src="https://img.shields.io/badge/Electron-%231572b6.svg?logo=Electron&logoColor=white&style=flat-square" alt="Electron">
 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=uzdz)](https://git.io/streak-stats)
+
+
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Editor](https://img.shields.io/badge/Editor-IntelliJ_IDEA-blue?style=flat-square&logo=IntelliJ-IDEA&logoColor=#000000)](https://code.visualstudio.com/)
 
 <img src="https://img.shields.io/badge/Conter_Strike-反恐精英-black.svg?logo=Counter-Strike&logoColor=white&style=flat-square"> <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=uzdz)](https://git.io/streak-stats)
