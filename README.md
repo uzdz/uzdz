@@ -12,7 +12,7 @@
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=uzdz)](https://git.io/streak-stats)
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
 <img src="https://img.shields.io/badge/Java-%2335495e.svg?logo=CoffeeScript&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/Golang-gray.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" /> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=flat-square" /> <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=flat-square" alt="Python" />
 
