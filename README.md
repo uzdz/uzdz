@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Front-end Web technology. 
 - ⭐ More about me: [uzdz.me](http://uzdz.me)
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+<!-- <img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2"> -->
 
 ## 🛠️ Technology Stack
 
