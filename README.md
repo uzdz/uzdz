@@ -14,8 +14,6 @@
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="165" />
-
 <div>
   <p>
     <img src="https://img.shields.io/badge/Java-%2335495e.svg?logo=CoffeeScript&logoColor=white&style=flat-square" alt="Golang" />
