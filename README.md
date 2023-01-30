@@ -12,7 +12,7 @@
 
 ## 🛠️ Technology Stack
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
 
 <div>
   <p>
@@ -43,6 +43,5 @@
     <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> 
   </p>
 </div>
-
 
 
