@@ -12,7 +12,10 @@
 
 ## 🛠️ Technology Stack
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=uzdz&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=uzdz&show_icons=true&theme=dark&hide_border=false" alt="yangchuansheng" width="50%" />
+</div>
 
 <div>
   <p>
