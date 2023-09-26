@@ -12,12 +12,7 @@
 
 ## 🛠️ Technology Stack
 
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=uzdz&show_icons=true&theme=dark&hide_border=false" alt="yangchuansheng" width="50%" />
-</div>
-
-<div>
+<div style="display: inline;">
   <p>
     <img src="https://img.shields.io/badge/Java-%2335495e.svg?logo=CoffeeScript&logoColor=white&style=flat-square" alt="Golang" />
     <img src="https://img.shields.io/badge/Golang-gray.svg?logo=goland&logoColor=white&style=flat-square" alt="Golang" />
@@ -46,5 +41,8 @@
     <img src="https://img.shields.io/badge/League_of_Legends-英雄联盟-blue.svg?logo=Riot%20Games&logoColor=white&style=flat-square"> 
   </p>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=uzdz&show_icons=true&theme=dark&hide_border=false" alt="uzdz" width="50%" />
+
 
 
